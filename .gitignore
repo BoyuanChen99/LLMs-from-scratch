@@ -1,3 +1,6 @@
+**__pycache__
+**.out
+**.epub
 
 # Configs and keys
 ch05/07_gpt_to_llama/config.json
